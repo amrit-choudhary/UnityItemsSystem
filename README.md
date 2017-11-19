@@ -17,8 +17,7 @@ https://docs.google.com/document/d/1B6obmrjv8Um8IbbuH5QpdtF9grurZq8fRz7wGfTCTCg/
 System Design and Code Architecture has been finished. The designed system has been tested in games like Skyrim, WoW, Clash Royale and Dota. I will start writing the code in the next month.
 
 ## About me
-I have over 4 years of game development experience. You can see my previous projects at
+I have over 4 years of game development experience. You can see my previous projects at  
 [amritchoudhary.com](www.amritchoudhary.com)
-
 Email: albela.amrit@gmail.com  
 Twitter: [@Amrit_Choudhry](https://twitter.com/Amrit_Choudhry)
