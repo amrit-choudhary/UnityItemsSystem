@@ -20,5 +20,5 @@ System Design and Code Architecture has been finished. The designed system has b
 I have over 4 years of game development experience. You can see my previous projects at
 [amritchoudhary.com](www.amritchoudhary.com)
 
-Email: albela.amrit@gmail.com 
-Twitter: @Amrit_Choudhry
+Email: albela.amrit@gmail.com  
+Twitter: [@Amrit_Choudhry](https://twitter.com/Amrit_Choudhry)
