@@ -1,5 +1,5 @@
-# UnityRewardsSystem
-Unity Asset package for easy to integrate and extend system for game rewards: drops, lootboxes and items.
+# UnityItemsSystem
+Unity Asset package for easy to integrate and extend system for game rewards, drops, lootboxes and items.
 
 ## Overview 
 Game engines like Unity have made a lot of code reusable for game developers. However, most of this code reuse is at low, engine level. For common things like character controller, GUI, camera etc. developers still have to build everything from scratch. This projects aims to create a Rewards System that can be directly plugged in your game projects. It will be highly flexible and extensible, so you can change it to your game's need.
