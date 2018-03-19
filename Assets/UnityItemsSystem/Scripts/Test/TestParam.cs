@@ -1,6 +1,8 @@
 ﻿
+[System.Serializable]
 public class TestParam {
 
+    [UnityEngine.SerializeField]
     private int _value;
     private string _id;
     public string ID {

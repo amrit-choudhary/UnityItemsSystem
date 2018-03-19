@@ -2,15 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Item : MonoBehaviour {
+/// <summary>
+/// Base Item class
+/// </summary>
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+namespace UIS
+{
+    [CreateAssetMenu(fileName = "Item", menuName = "Item System/Create New Item", order = 1)]
+    public class Item : ScriptableObject
+    {
+        public IntParameter id;
+        public StringParameter itemName;
+        public FloatParameter value;
+    }
 }
